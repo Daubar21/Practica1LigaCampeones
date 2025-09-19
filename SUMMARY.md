@@ -4,7 +4,7 @@
 * [Setup](setup.md)
 * [Gameplay](gameplay.md)
 * [Acciones](acciones.md)
-* [Push](push.md)
+* [💪 Empuje](push.md)
 * [K.O y Ganar la Partida](knockouts-and-winning-the-game.md)
 * [FAQs](faqs.md)
 * [Ejemplo de Secuecia](example-sequence.md)
