@@ -1,3 +1,7 @@
+---
+icon: book-blank
+---
+
 # Créditos
 
 #### DISEÑO DEL JUEGO:
