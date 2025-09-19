@@ -1,5 +1,6 @@
 ---
 icon: square-web-awesome
+cover: .gitbook/assets/legends.png
 coverY: 0
 layout:
   width: default
