@@ -1,4 +1,8 @@
-# Example Sequence
+---
+icon: rebel
+---
+
+# Ejemplo de Secuecia
 
 ### <mark style="color:blue;">`Seleccion de cartas`</mark>
 
