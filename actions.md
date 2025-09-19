@@ -16,13 +16,13 @@ icon: bolt-lightning
 
 Al activar una carta de acción, sus acciones ocurrirán. Se deben leer las acciones de arriba a abajo, además, **es obligatorio que todas sus acciones ocurran en el orden mencionado**.
 
-<figure><img src=".gitbook/assets/image.png" alt="" width="138"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt="" width="138"><figcaption></figcaption></figure>
 
 ## 2. Anatomía de cartas de acción
 
 Las cartas de acción tienen diferentes apartados que tendremos que conocer para usarlas.
 
-<figure><img src=".gitbook/assets/image (1).png" alt="" width="167"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="167"><figcaption></figcaption></figure>
 
 1. **Nombre**. El nombre de la carta de acción.
 2. **Velocidad**. Las cartas de acción que tengan mayor numero de velocidad se jugarán primero.
@@ -78,7 +78,7 @@ Si tu fuerza es mayor que su bloqueo:
 
 * Resta el valor del bloqueo del rival a tu ataque.
 * Con ese resultado y empezando por la ficha de fatiga del oponente, cuenta un número de espacios a la derecha igual a tu Fuerza restante, pero no muevas la ficha de Fatiga.
-* Coloca un número de fichas de Empuje sobre el objetivo igual al número de Empuje que  aparece en el icono rojo de ataque. La dirección de las fichas de Empuje coincide con tu orientación.
+* Coloca un número de fichas de Empuje sobre el objetivo igual al número de Empuje que aparece en el icono rojo de ataque. La dirección de las fichas de Empuje coincide con tu orientación.
 
 <figure><img src=".gitbook/assets/image (2).png" alt="" width="257"><figcaption></figcaption></figure>
 
