@@ -3,7 +3,7 @@
 * [README](README.md)
 * [Setup](setup.md)
 * [Gameplay](gameplay.md)
-* [Actions](actions.md)
+* [Acciones](acciones.md)
 * [Push](push.md)
 * [K.O y Ganar la Partida](knockouts-and-winning-the-game.md)
 * [FAQs](faqs.md)
