@@ -7,3 +7,6 @@
 &#x20;1.- Robar: Cada jugador roba la carta superior de su medidor.
 
 2.- Seleccionar 3&#x20;
+
+
+CONTINUARA-.....
