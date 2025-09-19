@@ -9,5 +9,5 @@
 * [FAQs](faqs.md)
 * [Example Sequence](example-sequence.md)
 * [Free-for-all variant](free-for-all-variant.md)
-* [Credits](credits.md)
+* [Créditos](credits.md)
 * [Box Content - Sergio](box-content-sergio.md)
