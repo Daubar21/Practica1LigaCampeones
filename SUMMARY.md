@@ -9,4 +9,4 @@
 * [FAQs](faqs.md)
 * [Example Sequence](example-sequence.md)
 * [Free-for-all variant](free-for-all-variant.md)
-* [Credits](credits.md)
+* [Créditos](creditos.md)
