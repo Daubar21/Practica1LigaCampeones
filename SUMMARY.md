@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Componentes del juego](README.md)
+* [README](README.md)
 * [Setup](setup.md)
 * [Gameplay](gameplay.md)
 * [Actions](actions.md)
