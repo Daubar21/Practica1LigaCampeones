@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Box Contents](README.md)
+* [Componentes del juego](README.md)
 * [Setup](setup.md)
 * [Gameplay](gameplay.md)
 * [Actions](actions.md)
@@ -9,4 +9,4 @@
 * [FAQs](faqs.md)
 * [Example Sequence](example-sequence.md)
 * [Free-for-all variant](free-for-all-variant.md)
-* [Créditos](creditos.md)
+* [Credits](credits.md)
