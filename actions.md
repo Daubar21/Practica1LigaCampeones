@@ -1,3 +1,7 @@
+---
+icon: bolt-lightning
+---
+
 # Actions
 
 1. Efectos de acción
