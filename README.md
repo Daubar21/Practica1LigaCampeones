@@ -8,25 +8,22 @@ Legends of the Arena es un **juego de cartas estratégico** donde los jugadores 
 
 * Actividad hecha por la clase de DAWE 2º año:
 
--Alejandro Tineo Pérez.
+-Alejandro Tineo Pérez -> Variante de todos contra todos
 
--Carlos Daubar Gutiérrez del Olmo.
+-Carlos Daubar Gutiérrez del Olmo -> Créditos
 
--Carlos Almendras Ledezma.
+-Carlos Almendras Ledezma -> K.O y Ganar la Partida
 
--David Forero Santillana.
+-David Forero Santillana  ->  Acciones
 
--Hugo Pascual García-Alcala.
+-Hugo Pascual García-Alcala  -> Gameplay
 
--Javier Maroto García.
+-Javier Maroto García  -> Setup
 
--Nicolas Furnieles García.
+-Juan Felipe Mena Vega -> FAQ's
 
--Nicolás Christopher Cortez Gomez.
+-Nicolas Furnieles García  -> Ejemplo de secuencia
 
--Sergio González Muñoz.
+-Nicolás Christopher Cortez Gomez  -> Empuje
 
-
-
-
-
+-Sergio González Muñoz  ->  Contenidos de la caja
